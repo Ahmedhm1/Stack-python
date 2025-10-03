@@ -87,7 +87,7 @@ Stack-python/
 │   └── stack.py      # Stack implementation
 │
 ├── README.md
-├── pyproject.toml    # (Optional) modern build file
+├── pyproject.toml    # modern build file
 └── setup.py          # Package setup script
 ```
 
