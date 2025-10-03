@@ -86,9 +86,9 @@ Stack-python/
 │   ├── __init__.py   # Exports Stack
 │   └── stack.py      # Stack implementation
 │
-├── setup.py          # Package setup script
+├── README.md
 ├── pyproject.toml    # (Optional) modern build file
-└── README.md
+└── setup.py          # Package setup script
 ```
 
 ---
