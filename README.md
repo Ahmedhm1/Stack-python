@@ -94,4 +94,4 @@ Stack-python/
 ---
 
 ## 📖 Source Code
-➡️ [View `stack.py`](./stk/stack.py) directly if you just want to read the implementation.
+➡️ [View `stack.py`](https://github.com/Ahmedhm1/Stack-python/blob/main/stk/stack) directly if you just want to read the implementation.
